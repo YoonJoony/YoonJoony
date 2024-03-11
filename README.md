@@ -9,14 +9,14 @@
 </div>
 
 
-<h3 align="center" >☁️ SNS </h3>
-<div align="center">
+<h3>☁️ SNS </h3>
+<div">
    <a href="https://velog.io/@dbswns1101/posts"><img src="https://img.shields.io/badge/velog-6EFF78?style=for-the-badge&logo=velog&logoColor=black">&nbsp
 </div>
 
 <!--내용 부분-->
-<h3 align="center">Tech Stack </h3>
-<div align="center">
+<h3>Tech Stack </h3>
+<div>
   <img src="https://img.shields.io/badge/Spring-20232a?style=flat-square&logo=spring&logoColor=white&logoColor=7CE283" />&nbsp
   <img src="https://img.shields.io/badge/Java-%23ED8B00?style=flat-square&logo=openjdk&logoColor=white&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/python-FFFFFF?style=flat-square&logo=python&logoColor=white&logoColor=white" />&nbsp
