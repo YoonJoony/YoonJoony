@@ -1,12 +1,17 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YoonJoony&show_icons=true&theme=gruvbox&hide_border=true&)</br>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YoonJoony&show_icons=true&theme=gruvbox&hide_border=true&)
+
+</br>
+
 [![Solved.ac dbswns 프로필](http://mazassumnida.wtf/api/generate_badge?boj=dbswns1101)](https://solved.ac/{handle})
+
 ----
+
+</br>
 
 <div>
   <h3>Hi there!</h3>
   📫 : dbswns1101@naver.com
 </div>
-
 
 <h3>☁️ SNS </h3>
 <div>
