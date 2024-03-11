@@ -3,19 +3,19 @@
 
 ----
 
-<div align="center">
-  <h3 align="center">Hi there!</h3>
+<div>
+  <h3>Hi there!</h3>
   📫 : dbswns1101@naver.com
 </div>
 
 
 <h3>☁️ SNS </h3>
-<div">
+<div>
    <a href="https://velog.io/@dbswns1101/posts"><img src="https://img.shields.io/badge/velog-6EFF78?style=for-the-badge&logo=velog&logoColor=black">&nbsp
 </div>
 
 <!--내용 부분-->
-<h3>Tech Stack </h3>
+<h3>Tech Stack</h3>
 <div>
   <img src="https://img.shields.io/badge/Spring-20232a?style=flat-square&logo=spring&logoColor=white&logoColor=7CE283" />&nbsp
   <img src="https://img.shields.io/badge/Java-%23ED8B00?style=flat-square&logo=openjdk&logoColor=white&logoColor=white" />&nbsp
@@ -41,8 +41,8 @@
 
 
 
-<h3 align="center">API Experience</h3>
-<div align="center">
+<h3>API Experience</h3>
+<div>
   <img src="https://img.shields.io/badge/Websocket-F05032?style=for-the-badge&logo=Socket.io&logoColor=white">&nbsp
   <img src="https://img.shields.io/badge/selenium-CC55DA?style=for-the-badge&logo=Selenium&logoColor=black">&nbsp
 </div>
