@@ -1,13 +1,12 @@
 ![header](https://capsule-render.vercel.app/api?type=venom&color=10:8BFF9F,80:FF8000&height=300&section=header&text=YoonJ%20hub&fontSize=90&fontColor=FFFFFF)
 
 <div align="center">
-  <h3 align="center">안녕하세요!</h3>
-  백엔드 개발자 김윤준입니다.</br>
+  <h3 align="center">Hello!</h3>
   📫 : dbswns1101@naver.com
 </div>
 
 
-<h3 align="center">☁️SNS </h3>
+<h3 align="center" >☁️ SNS </h3>
 <div align="center">
    <a href="https://velog.io/@dbswns1101/posts"><img src="https://img.shields.io/badge/velog-6EFF78?style=for-the-badge&logo=velog&logoColor=black">&nbsp
 </div>
