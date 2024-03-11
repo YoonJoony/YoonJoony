@@ -7,7 +7,7 @@
 </div>
 
 
-<h3 align="center">☁️SNS☁️ </h3>
+<h3 align="center">☁️SNS </h3>
 <div align="center">
    <a href="https://velog.io/@dbswns1101/posts"><img src="https://img.shields.io/badge/velog-6EFF78?style=for-the-badge&logo=velog&logoColor=black">&nbsp
 </div>
