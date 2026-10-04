@@ -11,7 +11,7 @@
 
 <h3>☁️ SNS </h3>
 <div>
-   <a href="https://yoonjoony.github.io/"><img src="https://img.shields.io/badge/blog-6EFF78?style=for-the-badge&logo=velog&logoColor=black">&nbsp
+   <a href="https://yoonjoony.github.io/"><img src="https://img.shields.io/badge/blog-6EFF78?style=for-the-badge&logo=blog&logoColor=black">&nbsp
 </div>
 
 <!--내용 부분-->
